@@ -1,5 +1,5 @@
 # PixieBook
-<a href="https://pixiedevpraveen.github.io/impfiles/appimage/PixieBook-homepage1.png"> <img width="30" src="https://pixiedevpraveen.github.io/impfiles/appimage/icons/pixiebook.png"> </a>
+<a href="https://pixiedevpraveen.github.io/impfiles/appimage/icons/pixiebook.png"> <img width="30" src="https://pixiedevpraveen.github.io/impfiles/appimage/icons/pixiebook.png"> </a>
 
 
 A chat app that make you feel like facebook UI. 
@@ -9,7 +9,7 @@ working social site as Facebook.
 
 ## Application Images:
 
-<a href="https://pixiedevpraveen.github.io/impfiles/appimage/PixieBook-homepage1.png"> <img width="100" src="https://pixiedevpraveen.github.io/impfiles/appimage/PixieBook-homepage1.png"> </a>
+<a href="https://pixiedevpraveen.github.io/impfiles/appimage/PixieBook-homepage2.jpg"> <img width="100" src="https://pixiedevpraveen.github.io/impfiles/appimage/PixieBook-homepage2.jpg"> </a>
 
 ## Contact us:
 
